@@ -1,6 +1,9 @@
 site_name: Schülerpraktikum bei Kia Deutschland IT
 theme:
   name: material
+  palette:
+    scheme: default
+    primary: black
 plugins:
   - search:
       separator: '[\s\-\.]+'

@@ -36,13 +36,13 @@ Markdown unterstützung
 
 Grundbefehle
 ```bash
-# copy ein Projekt
+# Kopiere ein Projekt
 git clone 
 
-# initialisiere ein eigenes Projekt
+# Initialisiere ein eigenes Projekt
 git init
 
-# bereite die Änderung fürs Commit 
+# Bereite die Änderung fürs Commit 
 git add .
 
 # Führe das "Commit" durch
