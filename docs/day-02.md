@@ -27,6 +27,7 @@ Static Site Generator written in Python
 ## Visual Studio Code
 
 Markdown unterstützung
+
 [https://code.visualstudio.com/docs/languages/markdown](https://code.visualstudio.com/docs/languages/markdown)
 
 ## Git
