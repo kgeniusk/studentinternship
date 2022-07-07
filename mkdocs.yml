@@ -1,4 +1,5 @@
 site_name: Schülerpraktikum bei Kia Deutschland IT
+dev_addr: 0.0.0.0:8088
 theme:
   name: material
   palette:
