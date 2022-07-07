@@ -3,7 +3,7 @@
 ## Ist-Analyse
 
 Gehe auf die folgende Webseite und führe die Ist-Analyse durch.
-Schriebe auf, welche Problemen die aktuelle Anleitungssammelung hat.
+Schriebe auf, welche Problemen die aktuelle Anleitungsammelung hat.
 
 - URL: https://kmd.dealer-portal.net
 - ID: ...
@@ -29,5 +29,8 @@ Es gibt viele "Static Site Generator"-Lösungen. Suche im Google nach "Static Si
 Die folgende Website listet die "Static Site Generator"-Lösungen nach Programmiersprache oder nach Populärität.
 Suche dir einige Lösungen aus und schau dir genauer an, wie die jeweilige Lösung aussieht. Schreibe die Vor- und Nachteile der Lösungen auf und beschreibe, warum du sie ausgesucht hast. 
 
-https://jamstack.org/generators/
+[https://jamstack.org/generators/](https://jamstack.org/generators/)
 
+## Markdown
+
+[https://markdown.de/](https://markdown.de/)
