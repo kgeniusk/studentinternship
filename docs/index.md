@@ -16,3 +16,7 @@ Es ist wichtig, den Ist-Zustand bzw. die Ausgangssituation ganau zu analysieren 
 ## Soll-Analyse
 
 Nach der Ermittlung der aktuellen Problemen beginnt man mit der Soll-Analyse. Bei der Soll-Analyse wird eine Lösung für die Probleme aus der Ist-Analyse abgeleitet. Man sollte dabei die bestehenden Bedingungen/Einschränkungen des Entwicklungsteams berücksichtigen. Z. B. Kia nutzt in der Regel weder Public-Cloud(Azure, AWS, GCP) noch eine Software, die auf einer Public-Could läuft. D.h. wir brauchen eine On-Premise-Lösung, die wir auf einem eigene Server oder Rechner installieren könnn.
+
+## Implementierung
+
+Hier werden die erarbeiteten Lösungen tatsächlich umgesetzt.
