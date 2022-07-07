@@ -1,0 +1,14 @@
+site_name: Schülerpraktikum bei Kia Deutschland IT
+theme:
+  name: material
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+      indexing: 'full'
+      lang:
+        - en
+        - de
+nav:
+  - Einleitung: index.md
+  - "Tag 1": day-01.md
+  - "Tag 2": day-02.md
