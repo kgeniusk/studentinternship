@@ -6,8 +6,6 @@ Gehe auf die folgende Webseite und führe die Ist-Analyse durch.
 Schriebe auf, welche Problemen die aktuelle Anleitungsammelung hat.
 
 - URL: https://kmd.dealer-portal.net
-- ID: ...
-- Password: ...
 
 ![Dealer Portal Document Query](images/dealerportal-document-enquiry.jpg)
 
