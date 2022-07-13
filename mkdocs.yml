@@ -13,7 +13,6 @@ plugins:
       indexing: 'full'
       lang:
         - en
-        - de
 nav:
   - Einleitung: index.md
   - "Tag 1": day-01.md
