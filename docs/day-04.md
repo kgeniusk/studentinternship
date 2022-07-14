@@ -22,12 +22,3 @@ Lasst uns ein paar Änderung in der Mkdocs-Material-Konfiguration vornehmen
 * Füge Unterstützung für Deutsch hinzu
 * [Link: Mkdocs-Material Search](https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-search/)
 
-## Elasticsearch & Kibana
-
-[https://www.elastic.co/de/enterprise-search/](https://www.elastic.co/de/enterprise-search/)
-
-## Übungsumgebung
-
-- URL: http://kiatest.de:5601
-- Id: ...
-- Passwort: ...
