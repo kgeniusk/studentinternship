@@ -180,7 +180,7 @@ print(resp)
 
 doc = {
     'author': 'kimchy',
-    'author': 'Elasticsearch: cool. bonsai cool.',
+    'text': 'Elasticsearch: cool. bonsai cool.',
     'timestamp': datetime.now(),
 }
 
