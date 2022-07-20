@@ -17,3 +17,14 @@ Es gibt zwei Möglichkeiten:
 # in deinem "search"-Verzeichnis
 git pull git@github.com:kgeniusk/esclient.git
 ```
+
+Das geänderte Programm nutzt "highlight" data anstatt "_source" data.
+Dies verursacht ein Problem. Wie können wir es lösen?
+
+## Sortierung der Suchergebnisse
+
+Sortiere die Suchergebnisse nach "score"
+
+## Verbesserungen
+
+Denke darüber nach, welche Verbesserungen wir für unser Suchprogramm vornehmen kann.
